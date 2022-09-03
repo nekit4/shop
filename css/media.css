@@ -1,0 +1,44 @@
+@media(max-width: 991px){
+    .navbar_nav{
+        text-align: center;
+    }
+    
+    .header__nav-link{
+        margin-left: 0;
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        border-bottom: 1px solid #C8A35F;
+        padding-bottom: 10px;
+    }
+    
+    .slider__btn{
+        flex-direction: inherit;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .header__text-title {
+        font-size: 47px;
+        
+    }
+    .header__text-p {
+        font-size: 20px;
+       
+    }
+    .footer__h6 {
+        font-size: 14px;}
+}
+
+@media(max-width:771px){
+    
+}
+
+@media(max-width: 454px) {
+    .header__menu-icon{
+        padding-left: 18px;
+    }
+    .header__menu-img{
+        width: 100px;
+    }
+}
